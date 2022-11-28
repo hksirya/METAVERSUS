@@ -1,10 +1,10 @@
 # METAVERSUS 
-Enter new worlds with Metaversus
+Enter the Metaversus
 # Tools Used 
 - Next.JS
 - TailwindCSS
 - Framer Motion 
-# Live Link : 
+# Live Link : https://metaversus-hksirya.netlify.app/
 # Screenshots
 ![Screenshot (694)](https://user-images.githubusercontent.com/104431269/204254715-1e164457-385d-414e-ac6f-5d5c76828463.png)
 ![Screenshot (695)](https://user-images.githubusercontent.com/104431269/204254728-3e415c9a-3d27-4524-a741-b0d8d6c58eee.png)
